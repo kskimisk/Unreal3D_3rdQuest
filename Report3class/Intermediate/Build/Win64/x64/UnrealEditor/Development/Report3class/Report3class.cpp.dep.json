@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\report3class.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\x64\\report3classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\report3class\\definitions.report3class.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\report3class.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

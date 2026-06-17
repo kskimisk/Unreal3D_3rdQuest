@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Report3class",
+			"Path": "..\\Source\\Report3class.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Report3classEditor",
+			"Path": "..\\Source\\Report3classEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

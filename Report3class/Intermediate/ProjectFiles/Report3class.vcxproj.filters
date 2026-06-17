@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Report3class.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Report3class.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Report3classEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Report3class">
+      <UniqueIdentifier>{142B1A0E-E65E-3E83-9A32-4055CA285F05}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Report3class\Report3class.Build.cs">
+      <Filter>Source\Report3class</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Report3class\Report3class.cpp">
+      <Filter>Source\Report3class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Report3class.h">
+      <Filter>Source\Report3class</Filter>
+    </ClCompile>
+    <Filter Include="Source\Report3class\Private">
+      <UniqueIdentifier>{A26ADC80-7284-330B-9686-A6FAEF7A35E5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Report3class\Private\barr_Obs.cpp">
+      <Filter>Source\Report3class\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Private\Fall_Obs.cpp">
+      <Filter>Source\Report3class\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Private\Mov_Obs.cpp">
+      <Filter>Source\Report3class\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Private\OBarr_Obs.cpp">
+      <Filter>Source\Report3class\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Report3class\Public">
+      <UniqueIdentifier>{DBCE48A0-7F69-3E02-A6FC-E7AA15B9DA91}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Report3class\Public\barr_Obs.h">
+      <Filter>Source\Report3class\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Public\Fall_Obs.h">
+      <Filter>Source\Report3class\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Public\Mov_Obs.h">
+      <Filter>Source\Report3class\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Report3class\Public\OBarr_Obs.h">
+      <Filter>Source\Report3class\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

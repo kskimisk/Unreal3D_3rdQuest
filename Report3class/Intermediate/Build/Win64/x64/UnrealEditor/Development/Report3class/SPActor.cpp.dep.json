@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\private\\spactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\x64\\report3classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\report3class\\definitions.report3class.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\public\\spactor.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\unrealeditor\\inc\\report3class\\uht\\spactor.generated.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\public\\mov_obs.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\unrealeditor\\inc\\report3class\\uht\\mov_obs.generated.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\source\\report3class\\public\\obarr_obs.h",
+            "c:\\users\\kimis\\desktop\\unreal_class\\ue_cpp_3d_class\\report3class\\intermediate\\build\\win64\\unrealeditor\\inc\\report3class\\uht\\obarr_obs.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
